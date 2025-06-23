@@ -1,1 +1,1 @@
-- `git submodule add <submodule-url>`
+- `git submodule add <submodule-url>`.
