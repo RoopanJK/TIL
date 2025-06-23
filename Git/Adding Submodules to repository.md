@@ -1,0 +1,1 @@
+- `git submodule add <submodule-url>`
