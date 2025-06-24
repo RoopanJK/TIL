@@ -15,7 +15,7 @@ A collection of concepts and things that I learn day to day across various techn
 ### TILs
 
 ### Git
-- [Adding Submodules to Repository](Git/Adding-Submodules-to-Repository)
+- [Adding Submodules to Repository](Git/Adding-Submodules-to-Repository.md)
 
 ### Obsidian
 - 
