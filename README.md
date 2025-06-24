@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-**_7** TILs and counting..._ 
+***7*** TILs and counting...
 
 ---
 ### Categories
