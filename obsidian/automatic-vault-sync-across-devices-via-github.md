@@ -4,4 +4,4 @@
 - If a git repository is not initialised already. Initialise a new repository.
 - We are going to rely on the commit and sync feature of this plugin which does three things
 	- `Commit the changes -> Pull latest changes -> Push commited changes`
-- In order for the commit and sync to act automatically, we need to [[Setup Git Credential Helper]] to avoid inputting our git credentials each time commit and sync takes place.
+- In order for the commit and sync to act automatically, we need to [[setup-git-credential-helper]] to avoid inputting our git credentials each time commit and sync takes place.

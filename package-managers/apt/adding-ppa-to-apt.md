@@ -1,4 +1,4 @@
-- To add a [[PPA (Personal Package Archive)]] in APT (Advanced Package Tool) we use the `add-apt-repository` command followed by the PPA's address.
+- To add a [[ppa-personal-package-archive]] in APT (Advanced Package Tool) we use the `add-apt-repository` command followed by the PPA's address.
 
 ```
 sudo add-apt-repository ppa:user/repository
