@@ -1,3 +1,5 @@
+# automatic-vault-sync-across-devices-via-github
+
 ##### 1. Setup auto commit and sync in the [`obsidian-git`](https://github.com/Vinzent03/obsidian-git) community plugin:
 - Install the obsidian git plugin in the community plugins window of obsidian. (The plugin is named as just **git** in it. So verify the author of the plugin w.r.t the above linked repository)
 - The plugin should automatically detect a git repository and start parsing the source tree for changes. 
