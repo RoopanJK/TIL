@@ -21,7 +21,7 @@ A collection of concepts and things that I learn day to day across various techn
 
 ### Obsidian
 
-- [Automatic Vault Sync Across Devices via Github](obsidian/automatic-vault-sync-across-devices-via-github)
+- [Automatic Vault Sync Across Devices via Github](obsidian/automatic-vault-sync-across-devices-via-github.md)
 
 ### Package-Managers
 

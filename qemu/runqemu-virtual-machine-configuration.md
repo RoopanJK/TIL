@@ -1,4 +1,4 @@
-# runqemu-virtual-machine-configuration
+# Virtual Machine Configuration
 
 Add the below variables to `local.conf` to set the virtual machine specifications.
 - Memory:

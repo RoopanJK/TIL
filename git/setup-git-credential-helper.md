@@ -1,4 +1,4 @@
-# setup-git-credential-helper
+# Setup Git Credential Helper
 
 Ref: https://publish.obsidian.md/git-doc/Authentication#HTTPS
 (The following instructions are not specific to Obsidian alone but can be used system wide.)

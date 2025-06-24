@@ -1,4 +1,4 @@
-# adding-ppa-to-apt
+# Adding PPA to APT
 
 - To add a [[ppa-personal-package-archive]] in APT (Advanced Package Tool) we use the `add-apt-repository` command followed by the PPA's address.
 
