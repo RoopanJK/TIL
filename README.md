@@ -4,8 +4,7 @@ A collection of concepts and things that I learn day to day across various techn
 
 ***7*** TILs and counting...
 
----
-### Categories
+## Categories
 
 * [Git](#Git)
 * [Obsidian](#Obsidian)
@@ -13,30 +12,35 @@ A collection of concepts and things that I learn day to day across various techn
 * [QEMU](#QEMU)
 * [Yocto](#Yocto)
 
----
-### TILs
+## TILs
 
 ### Git
+
 - [Adding Submodules to Repository](git/adding-submodules-to-repository.md)
 - [Setup Git Credential Helper](git/setup-git-credential-helper.md)
 
 ### Obsidian
+
 - [Automatic Vault Sync Across Devices via Github](obsidian/automatic-vault-sync-across-devices-via-github)
 
 ### Package-Managers
 
 #### APT
+
 - [Adding PPA to APT](package-managers/apt/adding-ppa-to-apt.md)
 - [PPA - Personal Package Archive](package-managers/apt/ppa-personal-package-archive.md)
 
 
 ### QEMU
+
 - [Virtual Machine Configuration](qemu/runqemu-virtual-machine-configuration.md)
 
 ### Yocto
 
 #### BitBake
+
 - [Adding a SystemD service into a Image Using a Recipe](yocto/bitbake/adding-a-systemd-service-into-a-image-using-a-recipe.md)
+
 
 ## Usage
 
