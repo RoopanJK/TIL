@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***8*** TILs and counting...
+***9*** TILs and counting...
 
 ## Categories
 
@@ -18,6 +18,7 @@ A collection of concepts and things that I learn day to day across various techn
 
 - [Adding Submodules to Repository](git/adding-submodules-to-repository.md)
 - [Setup Git Credential Helper](git/setup-git-credential-helper.md)
+- [Remove Submodule from Repository](git/remove-submodule-from-repository.md)
 
 ### Obsidian
 
