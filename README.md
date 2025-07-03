@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***9*** TILs and counting...
+***10*** TILs and counting...
 
 ## Categories
 
@@ -42,7 +42,7 @@ A collection of concepts and things that I learn day to day across various techn
 
 - [Adding a SystemD service into a Image Using a Recipe](yocto/bitbake/adding-a-systemd-service-into-a-image-using-a-recipe.md)
 - [Creating a Recipe for PIP Packages](yocto/bitbake/creating-a-recipe-for-pip-packages.md)
-
+- [Patching Source of a Recipe Using Devtool](patching-source-of-a-recipe-using-devtool.md)
 
 ## Usage
 
