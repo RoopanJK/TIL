@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***10*** TILs and counting...
+***12*** TILs and counting...
 
 ## Categories
 
@@ -42,12 +42,14 @@ A collection of concepts and things that I learn day to day across various techn
 
 - [Adding a SystemD service into a Image Using a Recipe](yocto/bitbake/adding-a-systemd-service-into-a-image-using-a-recipe.md)
 - [Creating a Recipe for PIP Packages](yocto/bitbake/creating-a-recipe-for-pip-packages.md)
-- [Patching Source of a Recipe Using Devtool](patching-source-of-a-recipe-using-devtool.md)
+- [Patching Source of a Recipe Using Devtool](yocto/bitbake/patching-source-of-a-recipe-using-devtool.md)
+- [Modifying Root Password of your Image](yocto/bitbake/modifying-root-password-of-your-image.md)
+- [Add New User to your Image](yocto/bitbake/add-new-user-to-your-image.md)
 
 ## Usage
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
-be invoked with `<leader>c`. This will do a substitution count of the
+be invoked with `<leader>ct`. This will do a substitution count of the
 current number of TILs and display the result in the command tray.
 
 ## About

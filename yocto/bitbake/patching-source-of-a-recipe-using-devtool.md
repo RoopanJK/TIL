@@ -1,4 +1,6 @@
-Ref: https://wiki.yoctoproject.org/wiki/TipsAndTricks/Patching_the_source_for_a_recipe
+# Patching Source of a Recipe using Devtool
+
+devRef: https://wiki.yoctoproject.org/wiki/TipsAndTricks/Patching_the_source_for_a_recipe
 
 1. Use devtool to modify the required recipe.
 	```
