@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***19*** TILs and counting...
+***20*** TILs and counting...
 
 ## Categories
 
@@ -21,6 +21,8 @@ A collection of concepts and things that I learn day to day across various techn
 - [Remove Submodule from Repository](git/remove-submodule-from-repository.md)
 
 ### Linux
+
+- [Configuring Sudoers](linux/configuring-sudoers.md)
 
 ### Groups
 - [Add a New Group](linux/groups/add-a-new-group.md)
