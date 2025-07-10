@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***20*** TILs and counting...
+***21*** TILs and counting...
 
 ## Categories
 
@@ -23,6 +23,7 @@ A collection of concepts and things that I learn day to day across various techn
 ### Linux
 
 - [Configuring Sudoers](linux/configuring-sudoers.md)
+- [Text Insertion into File via HereDoc Input Stream](linux/text-insertion-into-file-via-heredoc-input-stream.md)
 
 ### Groups
 - [Add a New Group](linux/groups/add-a-new-group.md)
