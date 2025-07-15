@@ -56,11 +56,11 @@ A collection of concepts and things that I learn day to day across various techn
 
 #### BitBake
 
-- [Adding a SystemD service into a Image Using a Recipe](yocto/bitbake/adding-a-systemd-service-into-a-image-using-a-recipe.md)
-- [Creating a Recipe for PIP Packages](yocto/bitbake/creating-a-recipe-for-pip-packages.md)
-- [Patching Source of a Recipe Using Devtool](yocto/bitbake/patching-source-of-a-recipe-using-devtool.md)
-- [Modifying Root Password of your Image](yocto/bitbake/modifying-root-password-of-your-image.md)
-- [Add New User to your Image](yocto/bitbake/add-new-user-to-your-image.md)
+- [Adding a SystemD service into a Image Using a Recipe](adding-a-systemd-service-into-a-image-using-a-recipe.md)
+- [Creating a Recipe for PIP Packages](creating-a-recipe-for-pip-packages.md)
+- [Patching Source of a Recipe Using Devtool](patching-source-of-a-recipe-using-devtool.md)
+- [Modifying Root Password of your Image](modifying-root-password-of-your-image.md)
+- [Add New User to your Image](add-new-user-to-your-image.md)
 
 ## Usage
 
