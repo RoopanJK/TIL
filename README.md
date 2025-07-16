@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***21*** TILs and counting...
+***23*** TILs and counting...
 
 ## Categories
 
@@ -33,6 +33,9 @@ A collection of concepts and things that I learn day to day across various techn
 - [Rename a Group](linux/groups/rename-a-group.md)
 - [Method to List All Groups](linux/groups/method-to-list-all-groups.md)
 
+### Permissions
+- [Linux File Permissions](linux/permissions/linux-file-permissions.md)
+
 ### Users
 - [Add a New User](linux/users/add-a-new-user.md)
 
@@ -56,16 +59,16 @@ A collection of concepts and things that I learn day to day across various techn
 
 #### BitBake
 
-- [Adding a SystemD service into a Image Using a Recipe](adding-a-systemd-service-into-a-image-using-a-recipe.md)
-- [Creating a Recipe for PIP Packages](creating-a-recipe-for-pip-packages.md)
-- [Patching Source of a Recipe Using Devtool](patching-source-of-a-recipe-using-devtool.md)
-- [Modifying Root Password of your Image](modifying-root-password-of-your-image.md)
-- [Add New User to your Image](add-new-user-to-your-image.md)
-
+- [Adding a SystemD service into a Image Using a Recipe](yocto/bitbake-recipes/adding-a-systemd-service-into-a-image-using-a-recipe.md)
+- [Creating a Recipe for PIP Packages](yocto/bitbake-recipes/creating-a-recipe-for-pip-packages.md)
+- [Patching Source of a Recipe Using Devtool](yocto/bitbake-recipes/patching-source-of-a-recipe-using-devtool.md)
+- [Modifying Root Password of your Image](yocto/bitbake-recipes/modifying-root-password-of-your-image.md)
+- [Add New User to your Image](yocto/bitbake-recipes/add-new-user-to-your-image.md)
+- [Adding a Network Manager Configuration for Autoconnect to WLAN](yocto/bitbake-recipes/adding-a-networkmanager-config-for-autoconnect-to-wlan.md)
 ## Usage
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
-be invoked with `<leader>ct`. This will do a substitution count of the
+be invoked with `<leader>ct` (Default leader key is set to `\`). This will do a substitution count of the
 current number of TILs and display the result in the command tray.
 
 ## About

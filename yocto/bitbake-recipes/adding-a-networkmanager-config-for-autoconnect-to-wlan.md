@@ -23,40 +23,30 @@
 	```
 	sudo nmcli con up *connection-name* 
 	```
-- Now we can either copy the file or create our own file and place it in the files directory of the recipe folder.
+- Now we can either copy the file or create our own file and place it in the files directory of the recipe folder. 
+- (Note: Lookout for the permissions while moving this file and placing it in your image. As improper permissions will result in NetworkManager ignoring the file.)
 ---
-- Recipe file is a below
+- Recipe file is as below
 ```
 SUMMARY = "Network manager configuration to autoconnect to WLAN"
 
 DESCRIPTION = "Place the required configuration file for network manager to autoconnect to saved networks"
 
-  
-
 LICENSE = "MIT"
 
-  
-
 SRC_URI = " \
-
 file://*connection-name*.nmconnection
-
 "
-
-  
-
-inherit systemd
-
-  
 
 S = "${WORKDIR}"
 
+RDEPENDS:${PN} = "networkmanager wpa-supplicant"
   
 do_install(){
 
 install -d ${D}/${sysconfdir}/NetworkManager/system-connections
 
-install -m 0660 ${S}/*connection-name*.nmconnection ${D}/${sysconfdir}/NetworkManager/system-connections
+install -m 600 ${S}/*connection-name*.nmconnection ${D}/${sysconfdir}/NetworkManager/system-connections
 
 }
 ```

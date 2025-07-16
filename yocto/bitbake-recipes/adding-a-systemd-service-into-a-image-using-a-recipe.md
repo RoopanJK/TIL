@@ -18,7 +18,9 @@ ExecStart=/bin/bash /usr/bin/startup.sh
 WantedBy=multi-user.target
 ```
 
-- Recipe file is a below.
+---
+
+- Recipe file is as below.
 
 ```
 SUMMARY = "A Example of a recipe that installs a systemd service"
