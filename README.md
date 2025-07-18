@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***23*** TILs and counting...
+***25*** TILs and counting...
 
 ## Categories
 
@@ -32,6 +32,7 @@ A collection of concepts and things that I learn day to day across various techn
 - [Delete a Group](linux/groups/delete-a-group.md)
 - [Rename a Group](linux/groups/rename-a-group.md)
 - [Method to List All Groups](linux/groups/method-to-list-all-groups.md)
+- [Add a User to a Group](linux/groups/add-a-user-to-a-group.md)
 
 ### Permissions
 - [Linux File Permissions](linux/permissions/linux-file-permissions.md)
@@ -65,6 +66,7 @@ A collection of concepts and things that I learn day to day across various techn
 - [Modifying Root Password of your Image](yocto/bitbake-recipes/modifying-root-password-of-your-image.md)
 - [Add New User to your Image](yocto/bitbake-recipes/add-new-user-to-your-image.md)
 - [Adding a Network Manager Configuration for Autoconnect to WLAN](yocto/bitbake-recipes/adding-a-networkmanager-config-for-autoconnect-to-wlan.md)
+- [Add Bash Configuration to Image](yocto/bitbake-recipes/add-bashrc-config-to-image.md)
 ## Usage
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
