@@ -13,13 +13,18 @@ devRef: https://wiki.yoctoproject.org/wiki/TipsAndTricks/Patching_the_source_for
 	devtool build <recipe-name>
 	```
 	- Changes in recipe of the source will affect this build, so make necessary changes on both source and recipe to result in a successful build.
-3. Once you have reached you required result. Do necessary git commit to the repository and use the devtool to automatically generate `.bbappend` and patch files.
+3. Once you have reached you required result. Do necessary git commit to the repository.
+4. After you've commited. Create a patch file which will be used by the .bbappend of the recipe.
+```
+	git format-patch HEAD~1
+```
+5. Use the devtool to automatically generate `.bbappend` and patch files.
 	```
 	devtool update-recipe -a <layer-path> <recipe-name>
 	```
 	- The above command will generate the required recipe and place it in your meta-layer.
-4. Once completed the above steps, this temp source folder can be deleted using 
+6. Once completed the above steps, this temp source folder can be deleted using 
 	```
 	devtool reset <recipe-name>
 	```
-5. Delete the preserved source if required.
+7. Delete the preserved source if required.
