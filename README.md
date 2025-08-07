@@ -2,13 +2,18 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***25*** TILs and counting...
+***26*** TILs and counting...
 
 ## Categories
 
 * [Git](#Git)
+* [Linux](#Linux)
+* [Groups](#Groups)
+* [Permissions](#Permissions)
+* [Users](#Users)
 * [Obsidian](#Obsidian)
 * [Package Managers](#Package-Managers)
+* [Python](#Python)
 * [QEMU](#QEMU)
 * [Yocto](#Yocto)
 
@@ -51,6 +56,9 @@ A collection of concepts and things that I learn day to day across various techn
 - [Adding PPA to APT](package-managers/apt/adding-ppa-to-apt.md)
 - [PPA - Personal Package Archive](package-managers/apt/ppa-personal-package-archive.md)
 
+### Python
+
+- [Creating a Virtual Environment](python/creating-a-virtual-environment.md)
 
 ### QEMU
 
