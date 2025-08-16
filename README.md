@@ -1,11 +1,12 @@
-    # Today I Learned...
+# Today I Learned...
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***27*** TILs and counting...
+***30*** TILs and counting...
 
 ## Categories
 
+* [Encryption](#Encryption)
 * [Git](#Git)
 * [Linux](#Linux)
 * [Groups](#Groups)
@@ -19,12 +20,17 @@ A collection of concepts and things that I learn day to day across various techn
 
 ## TILs
 
+### Encryption
+
+- [GPG Key](encryption/gpg-key.md)
+- [SSH Key](encryption/ssh-key.md)
 ### Git
 
 - [Adding Submodules to Repository](git/adding-submodules-to-repository.md)
 - [Setup Git Credential Helper](git/setup-git-credential-helper.md)
 - [Remove Submodule from Repository](git/remove-submodule-from-repository.md)
 - [Undo Commits - Git Reset](git/undo-commits-git-reset.md)
+- [Commit Signature Verification](git/commit-signature-verification.md)
 
 ### Linux
 
