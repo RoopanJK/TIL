@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***30*** TILs and counting...
+***31*** TILs and counting...
 
 ## Categories
 
@@ -17,6 +17,7 @@ A collection of concepts and things that I learn day to day across various techn
 * [Python](#Python)
 * [QEMU](#QEMU)
 * [Yocto](#Yocto)
+* [BitBake](#BitBake)
 
 ## TILs
 
@@ -24,6 +25,7 @@ A collection of concepts and things that I learn day to day across various techn
 
 - [GPG Key](encryption/gpg-key.md)
 - [SSH Key](encryption/ssh-key.md)
+- [Creating Asymmetric Keys](encryption/creating-asymmetric-keys.md)
 ### Git
 
 - [Adding Submodules to Repository](git/adding-submodules-to-repository.md)
@@ -97,8 +99,6 @@ I swiped this idea from [meganesu/til](https://github.com/meganesu/TIL).
 * [jbranchaud/til](https://github.com/jbranchaud/til).
 * [jwworth/til](https://github.com/jwworth/til).
 
-
 ## License
 
-This repository is licensed under the MIT license. See `LICENSE` for
-details.
+This repository is licensed under the MIT license. See `LICENSE` for details.
