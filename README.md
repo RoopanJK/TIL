@@ -9,6 +9,7 @@ A collection of concepts and things that I learn day to day across various techn
 * [Encryption](#Encryption)
 * [Git](#Git)
 * [Linux](#Linux)
+* [DBus](#DBus)
 * [Groups](#Groups)
 * [Permissions](#Permissions)
 * [Users](#Users)
@@ -39,6 +40,10 @@ A collection of concepts and things that I learn day to day across various techn
 - [Configuring Sudoers](linux/configuring-sudoers.md)
 - [Text Insertion into File via HereDoc Input Stream](linux/text-insertion-into-file-via-heredoc-input-stream.md)
 
+### DBus
+
+- [DBus Message Bus System](linux/dbus/dbus-message-bus-system.md)
+
 ### Groups
 - [Add a New Group](linux/groups/add-a-new-group.md)
 - [Add a New Group with Specific Group ID](linux/groups/add-a-new-group-specific-group-id.md)
@@ -49,9 +54,11 @@ A collection of concepts and things that I learn day to day across various techn
 - [Add a User to a Group](linux/groups/add-a-user-to-a-group.md)
 
 ### Permissions
+
 - [Linux File Permissions](linux/permissions/linux-file-permissions.md)
 
 ### Users
+
 - [Add a New User](linux/users/add-a-new-user.md)
 
 ### Obsidian
