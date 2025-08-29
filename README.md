@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***31*** TILs and counting...
+***33*** TILs and counting...
 
 ## Categories
 
@@ -15,6 +15,7 @@ A collection of concepts and things that I learn day to day across various techn
 * [Users](#Users)
 * [Obsidian](#Obsidian)
 * [Package Managers](#Package-Managers)
+* [C++](#C++)
 * [Python](#Python)
 * [QEMU](#QEMU)
 * [Yocto](#Yocto)
@@ -27,6 +28,7 @@ A collection of concepts and things that I learn day to day across various techn
 - [GPG Key](encryption/gpg-key.md)
 - [SSH Key](encryption/ssh-key.md)
 - [Creating Asymmetric Keys](encryption/creating-asymmetric-keys.md)
+
 ### Git
 
 - [Adding Submodules to Repository](git/adding-submodules-to-repository.md)
@@ -71,6 +73,10 @@ A collection of concepts and things that I learn day to day across various techn
 
 - [Adding PPA to APT](package-managers/apt/adding-ppa-to-apt.md)
 - [PPA - Personal Package Archive](package-managers/apt/ppa-personal-package-archive.md)
+
+### C++
+
+- [Member Initializer List](cpp/member-initializer-list.md)
 
 ### Python
 
