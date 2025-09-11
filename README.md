@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***33*** TILs and counting...
+***34*** TILs and counting...
 
 ## Categories
 
@@ -36,6 +36,7 @@ A collection of concepts and things that I learn day to day across various techn
 - [Remove Submodule from Repository](git/remove-submodule-from-repository.md)
 - [Undo Commits - Git Reset](git/undo-commits-git-reset.md)
 - [Commit Signature Verification](git/commit-signature-verification.md)
+- [Remove from Index to Stop Tracking a File/Folder](git/remove-from-index-to-stop-tracking.md)
 
 ### Linux
 
