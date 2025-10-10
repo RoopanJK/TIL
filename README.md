@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***35*** TILs and counting...
+***38*** TILs and counting...
 
 ## Categories
 
@@ -18,6 +18,7 @@ A collection of concepts and things that I learn day to day across various techn
 * [C++](#C++)
 * [Python](#Python)
 * [QEMU](#QEMU)
+* [UEFI](#UEFI)
 * [Yocto](#Yocto)
 * [BitBake](#BitBake)
 
@@ -87,6 +88,12 @@ A collection of concepts and things that I learn day to day across various techn
 ### QEMU
 
 - [Virtual Machine Configuration](qemu/runqemu-virtual-machine-configuration.md)
+- [OVMF - Open Virtual Machine Firmware](qemu/ovmf.md)
+
+### UEFI
+
+- [About UEFI](uefi/about-uefi.md)
+- [Building Application with EDK2](uefi/building-applications-with-edk2.md)
 
 ### Yocto
 
