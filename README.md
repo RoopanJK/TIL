@@ -2,7 +2,7 @@
 
 A collection of concepts and things that I learn day to day across various technologies.
 
-***38*** TILs and counting...
+***39*** TILs and counting...
 
 ## Categories
 
@@ -21,6 +21,7 @@ A collection of concepts and things that I learn day to day across various techn
 * [UEFI](#UEFI)
 * [Yocto](#Yocto)
 * [BitBake](#BitBake)
+* [Jetson](#Jetson)
 
 ## TILs
 
@@ -106,11 +107,14 @@ A collection of concepts and things that I learn day to day across various techn
 - [Add New User to your Image](yocto/bitbake-recipes/add-new-user-to-your-image.md)
 - [Adding a Network Manager Configuration for Autoconnect to WLAN](yocto/bitbake-recipes/adding-a-networkmanager-config-for-autoconnect-to-wlan.md)
 - [Add Bash Configuration to Image](yocto/bitbake-recipes/add-bashrc-config-to-image.md)
+
+### Jetson
+
+- [Jetson Boot Flow](jetson/jetson-boot-flow.md)
 ## Usage
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
-be invoked with `<leader>ct` (Default leader key is set to `\`). This will do a substitution count of the
-current number of TILs and display the result in the command tray.
+be invoked with `<leader>ct` (Default leader key is set to `\`). This will do a substitution count of the current number of TILs and display the result in the command tray.
 
 ## About
 

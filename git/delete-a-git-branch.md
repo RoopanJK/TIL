@@ -23,3 +23,6 @@
 	git push origin --delete `branch_name`
 ```
 -  By default, `git fetch` does not remove any branch that does no longer exist on the remote. In order to do that, we need to explicitly `prune` the list of remote branches.
+```
+	git fetch --prune
+```

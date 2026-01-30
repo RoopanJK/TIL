@@ -1,4 +1,4 @@
-# Undo Commits - Git Reset
+2 # Undo Commits - Git Reset
 
 ```
 git reset HEAD~<N>

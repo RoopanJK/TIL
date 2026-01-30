@@ -1,0 +1,22 @@
+### [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2)
+
+- The ability of computers to learn without begin explicitly programmed.
+- Well-Posed Learning:
+	- A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improved with experience E.
+- Supervised Learning (Most widely used):
+	-  Given a data set with two axis (Each axis tracks only one feature), find relation mapping from x to y.
+		- The above is a regression problem, as the value of y is continuous.
+	- Given a dataset with two axis (Y axis has two features), find relation mapping from x to y.
+		- The above is a classification problem. because the value of Y is discrete (Either one of n).
+		- If the value of Y is discrete, it is a classification problem.
+	- If both the input values are given on X & Y Axis (2D Vector), and an output is to be calculated with the relation between two inputs, Logistic Regression Algorithm can be used to do that.
+	- Real world problem would have n number of input features, in which the algorithm `Support Vector Machine` which can take **infinite** number of input features.
+- Machine Learning Strategy (Learning Theory).
+- Deep Learning / Neural Network training.
+- Unsupervised Learning:
+	- Unlabelled data and just give input X with no Y, and to find interesting things about it.
+		- Algorithm used - K means Clustering will be used for above test case.
+	- Clustering Algorithm
+	- Five people talking, with 5 microphones, and our algorithm would need to separate out each voice, so the output is just one clean voice - Cocktail problem.
+		- Algorithm used - ICA Independent Component Analysis.
+- Reinforcement Learning - Algorithm that does training and rewarding expected output but penalising bad output.
