@@ -1,4 +1,4 @@
-# DBus Message Bus System
+# DBus Message Bus System (Desktop Bus)
 
 - IPC - **Inter Process Communication** that allows communication between two or more processes.
 - Allows communication in a distributed environment either in a single system or different systems.
